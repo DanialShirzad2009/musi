@@ -1,0 +1,19 @@
+body{
+	background-image: url("https://storage.googleapis.com/blog-images-backup/0*I-sI3u34g0ydRqyA");
+}
+button{
+	margin: 30px;
+	
+}
+
+.div1{
+	bottom:0;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+.text{
+	margin: 50px;
+}
+
